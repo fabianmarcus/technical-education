@@ -326,3 +326,15 @@ https://henrikmassow.medium.com/eigene-funktionen-in-excel-mit-javascript-9bbec9
 https://henrikmassow.medium.com/excel-warum-zirkelbez%C3%BCge-kein-fehler-sein-m%C3%BCssen-10b7741832af
 
 https://learn.microsoft.com/de-de/office/dev/add-ins/tutorials/excel-tutorial
+
+Vibe Coding
+
+Datei mit Instruktionen anlegen
+
+Github Copilot Datei anlegen
+
+Tech Stack (Angular, Tailwind) und Best Practices Datei anlegen
+
+MCP für Firebase oder Supabase? (Ansonsten erst mal weglassen)
+
+Ausprobieren...
