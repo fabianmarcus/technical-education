@@ -176,3 +176,153 @@ https://www.designsystems.com/space-grids-and-layouts/
 CLI
 
 https://github.com/vadimdemedes/ink?tab=readme-ov-file
+
+Tools (ausprobieren)
+
+! OpenAI Beispiel nachprogrammieren !
+
+KI Image Creation
+
+Stable Diffusion XL => Model für realistische Grafiken
+
+Juggernaut XL => Model für realistische Grafiken
+
+Midjourney und DALL-E  => Closed Products
+
+Base Model SDXL => High Resolution Images
+
+epiCPhotoGasm / CivitAI => Plattform/„Checkpoint“ zur Spezialisierung von SDXL
+
+Stable-diffusion-webui
+
+comfyUI
+
+Fooocus
+
+YT: Github Actions => Recherche bzgl. Parameter
+
+Google Wallet
+
+https://github.com/google-wallet/rest-samples/tree/main/nodejs
+
+Cloud
+
+https://cloud.google.com/blog/topics/training-certifications/no-cost-google-cloud-skills-boost-for-summer-2023?hl=en
+
+React
+
+Video zu allen Hooks (Memo, etc.)
+
+Context (vs. Zustand)
+
+Suspense mit SSR
+
+Next.js
+
+https://remix.run/blog/remix-vs-next
+
+https://www.youtube.com/watch?v=MFuwkrseXVE
+
+https://meiosis.js.org/
+
+Zod (Schema Validation)
+
+z.infer und zodResolver und defaultValues
+
+https://sheety.co/
+
+https://www.androidpolice.com/google-sheets-how-to-scrape-data/
+
+tRPC (von Fireship)
+
+AuthZ => Thema auf JSConf => Wie Auth0?
+
+NIS2 (https://www.bsi.bund.de/DE/Themen/KRITIS-und-regulierte-Unternehmen/Kritische-Infrastrukturen/KRITIS-aktuell/KRITIS-Meldungen/221227-veroeffentlichung-nis-2.html)
+
+Astro => Thema auf JSConf (und: https://astro.build/blog/astro-2/ )
+
+Aktueller Stand Web Components (YouTube)
+
+Tanstack Query (von Fireship)
+
+Changelog Tool: https://keepachangelog.com/en/1.0.0/
+
+https://www.hacker101.com/
+
+https://www.pcwelt.de/ratgeber/Airbnb-und-andere-Unterkuenfte-Versteckte-Ueberwachungskameras-finden-10626892.html
+
+https://reolink.com/de/versteckte-kamera-finden-anleitung-tipps/
+
+https://www.youtube.com/watch?v=SIIde33EZrA&t=233s
+
+https://www.chessengines.org/
+
+https://codepen.io/grantjenkins/pe
+
+Keine Ahnung (googlen)
+
+Chrome
+
+Transition API
+
+Content Indexing
+
+Module Workers
+
+Periodic Background Sync
+
+Contact Picker API
+
+Register As File Handler
+
+Open Source
+
+Einstieg für OS Anfänger
+
+https://www.firsttimersonly.com/
+
+https://opensource.guide/de/starting-a-project/
+
+First Contribution
+
+https://github.com/firstcontributions/first-contributions
+
+NPM-Monorepo mittels „Workspaces“
+
+https://2ality.com/2021/07/simple-monorepos.html
+
+https://docs.npmjs.com/cli/v7/using-npm/workspaces
+
+https://2ality.com/2021/06/typescript-esm-nodejs.html
+
+Links
+
+Testing
+
+https://github.com/goldbergyoni/javascript-testing-best-practices
+
+https://medium.com/welldone-software/an-overview-of-javascript-testing-7ce7298b9870
+
+https://www.taniarascia.com/integration-testing-with-jest-typescript-objection/  (Integrationstests mit Jest)
+
+Side Project Komponenten
+
+Auth0
+
+Pocketbase, wenn nicht Firebase oder SQL in Google Cloud
+
+Vite / Next.js / Whatever (https://www.youtube.com/watch?v=2OTq15A5s0Y )
+
+https://mswjs.io/  ? (API Mocking)
+
+https://snyk.io/blog/how-to-build-secure-api-gateway-node-js/  (API Gateway mit Node)
+
+Excel mit Javascript
+
+https://henrikmassow.medium.com  -
+
+https://henrikmassow.medium.com/eigene-funktionen-in-excel-mit-javascript-9bbec9e78f0b
+
+https://henrikmassow.medium.com/excel-warum-zirkelbez%C3%BCge-kein-fehler-sein-m%C3%BCssen-10b7741832af
+
+https://learn.microsoft.com/de-de/office/dev/add-ins/tutorials/excel-tutorial
